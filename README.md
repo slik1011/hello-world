@@ -1,2 +1,4 @@
 # hello-world
-just learning to use github.
+
+Hello there!
+I'll be 18 tomorrow!
